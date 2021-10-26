@@ -1,4 +1,6 @@
 # Trilha_NLW_crachaVirtual
+ 
+ <a href="https://github.com/maykbrito">Crachá Ezequiel Martins</a>
   
 <h2>Projeto</h2>
 <p>Este crachá digital foi criado durante o evento NLW/Heat disponibilizado pela <a href="https://github.com/rocketseat-education">@rocketseat-education</a>.</p>
