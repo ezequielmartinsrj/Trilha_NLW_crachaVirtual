@@ -1,6 +1,6 @@
 # Trilha_NLW_crachaVirtual
   
-https://ezequielmartinsrj.github.io/Trilha_NLW_crachaVirtual/
+
 
 <h2>Projeto</h2>
 <p>Este crachá digital foi criado durante o evento NLW/Heat disponibilizado pela <a href="https://https://github.com/rocketseat-education">@rocketseat-education</a>.</p>
