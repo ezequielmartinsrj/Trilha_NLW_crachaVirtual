@@ -1,6 +1,10 @@
 # Trilha_NLW_crachaVirtual
  
  <a href="https://ezequielmartinsrj.github.io/Trilha_NLW_crachaVirtual/">Badge Ezequiel Martins</a>
+ 
+ ![Print1_NLW](https://user-images.githubusercontent.com/84859462/138799194-b66380b6-b4a7-4d09-8559-4908f161e132.JPG)
+![Print2_NLW](https://user-images.githubusercontent.com/84859462/138799223-19c69d4f-f603-4736-9105-591e297afd28.JPG)
+
   
 <h2>Project</h2>
 <p>The project is to create a digital badge for DoWhile2021, a Rocketseat event.  This digital badge was created during the NLW / Heat event provided by <a href="https://github.com/rocketseat-education">@rocketseat-education</a>.</p>
