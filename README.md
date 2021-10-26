@@ -1,10 +1,12 @@
 # Trilha_NLW_crachaVirtual
  
- <a href="https://ezequielmartinsrj.github.io/Trilha_NLW_crachaVirtual/">Badge Ezequiel Martins</a>
+ <a href="https://ezequielmartinsrj.github.io/Trilha_NLW_crachaVirtual/">Badge Ezequiel Martins</a> 
+ 
+ <h3>Mobile / Desktop</h3>
+
  
  ![Print1_NLW](https://user-images.githubusercontent.com/84859462/138799194-b66380b6-b4a7-4d09-8559-4908f161e132.JPG)
-![Print2_NLW](https://user-images.githubusercontent.com/84859462/138799223-19c69d4f-f603-4736-9105-591e297afd28.JPG)
-![Print3_NLW](https://user-images.githubusercontent.com/84859462/138799748-679dad2d-c04d-4e83-85f7-493747dcca5c.JPG)
+ ![Print3_NLW](https://user-images.githubusercontent.com/84859462/138799983-71573798-6a81-4ae3-befc-dc4c2a9bb3fe.JPG)
 
 
   
