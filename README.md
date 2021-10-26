@@ -1,6 +1,6 @@
 # Trilha_NLW_crachaVirtual
  
- <a href="https://ezequielmartinsrj.github.io/Trilha_NLW_crachaVirtual/">Badge Ezequiel Martins</a> 
+ <a href="https://ezequielmartinsrj.github.io/Trilha_NLW_crachaVirtual/">Digital Badge => Ezequiel Martins</a> 
  
  <h3>Mobile / Desktop</h3>
 
