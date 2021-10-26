@@ -1,6 +1,14 @@
 # Trilha_NLW_crachaVirtual
 Crachá feito na NLW
 
+<h2>Projeto</h2>
+<p>Este crachá digital foi criado durante o evento NLW/Heat disponibilizado pela <a href="https://https://github.com/rocketseat-education">@rocketseat-education</a>.</p>
+<p>Fui guiado durante 5 aulas pelos professores <a href="<a href="https://www.github.com/maykbrito">@maykbrito</a> e <a href="https://github.com/jakeliny">@jakeliny</a>.<p/>
 
-![Print1_NLW](https://user-images.githubusercontent.com/84859462/138786847-cb0b7ed5-a444-4e15-a817-320b35540621.JPG)
-![Print2_NLW](https://user-images.githubusercontent.com/84859462/138786848-96f5b0c1-9ca2-48de-8eaf-3e019b577f24.JPG)
+<h2>Tecnologias</h2>
+<p>Esse projeto foi desenvolvido com as seguintes tecnologias:</p>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+</ul>
